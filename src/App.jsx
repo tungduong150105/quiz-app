@@ -61,7 +61,7 @@ const App = () => {
             color="primary"
             sx={{ fontWeight: "bold" }}
           >
-            📝 Quiz App Trắc Nghiệm
+            Quiz App Trắc Nghiệm
           </Typography>
         </Grid>
 
